@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "931422818625",
+    "firebase_url": "https://vikas-1cca9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vikas-1cca9",
+    "storage_bucket": "vikas-1cca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931422818625:android:bf1b46b96e01be416951c0",
+        "android_client_info": {
+          "package_name": "com.example.zoomclone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931422818625-80085c9fvtlaskkgbvfajpo2n22icm24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7oy9B5GQivWOB5g02jrItEEhP_ET2Q1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931422818625-80085c9fvtlaskkgbvfajpo2n22icm24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931422818625-0rj6icbluqt6a4cldn6qkkmhdv48n8r8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomcloneApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931422818625:android:2b39b4ea70b16e996951c0",
+        "android_client_info": {
+          "package_name": "com.gunschu.jitsi_meet_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931422818625-80085c9fvtlaskkgbvfajpo2n22icm24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7oy9B5GQivWOB5g02jrItEEhP_ET2Q1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931422818625-80085c9fvtlaskkgbvfajpo2n22icm24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931422818625-0rj6icbluqt6a4cldn6qkkmhdv48n8r8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomcloneApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

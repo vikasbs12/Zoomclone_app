@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>931422818625-f15u31na64dg0ss8lgpc7g39ju29qdcm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.931422818625-f15u31na64dg0ss8lgpc7g39ju29qdcm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUVup_nttxoaKaiRoKI5kcz05mFEaDpjw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>931422818625</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zoomcloneApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>vikas-1cca9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vikas-1cca9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:931422818625:ios:c2394aa649fd7f4d6951c0</string>
+	<key>DATABASE_URL</key>
+	<string>https://vikas-1cca9-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

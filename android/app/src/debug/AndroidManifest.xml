@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="yourpackage.com"
+    xmlns:tools="http://schemas.android.com/tools"> <!-- Add this -->
+    <application 
+        tools:replace="android:label"  
+        android:name="your.application.name"
+        android:label="My Application"
+        android:icon="@mipmap/ic_launcher">
+        ...
+    </application>
+...
+</manifest>
